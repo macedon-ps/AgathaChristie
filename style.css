@@ -1,0 +1,62 @@
+body{
+    max-width: 1280px;
+    width: 80%;
+    margin: 10px; 
+    padding: 3px;
+}
+
+/*
+.fotos{
+    display: inline-block;
+    height: 280px;
+    margin: 10px;
+    padding: 3px;
+}
+*/
+
+dt 
+    {
+        font-size: 1.3em;            
+        font-weight: bold;
+        color: green;
+        text-align: justify; 
+        margin: 10px;    
+}
+dd  {
+        font-size: 1.1em; 
+        color: e76dc4   
+        text-align: justify;    
+        margin: 10px;
+        
+}
+
+img{
+    display: inline-block;
+    height: 250px;
+    margin: 8px;
+    padding: 3px;
+}
+h1, h2, h3{
+    font-family: arial, tahoma, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background: green;
+    color: black;
+}
+p{
+    font-family: arial, tahoma, sans-serif;
+    font-size: 1.2rem;  
+    text-indent: 30 px;
+    text-align: justify;
+    margin: 10px;
+    padding: 6px;
+}
+
+li{
+    color: #620d48;
+    font-family: arial, tahoma, sans-serif;
+    font-size: 1rem;  
+    
+    margin: 10px;
+    padding: 6px; 
+}
