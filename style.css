@@ -1,55 +1,55 @@
-body{
+body {
     max-width: 1280px;
     width: 80%;
-    margin: 10px; 
-    padding: 3px;
+    margin: 20px;
+    padding: 8px;
 }
-
-/*
+nav {
+    display: inline-block;
+}
 .fotos{
     display: inline-block;
     height: 280px;
     margin: 10px;
     padding: 3px;
 }
-*/
 
-dt 
-    {
-        font-size: 1.3em;            
-        font-weight: bold;
-        color: green;
-        text-align: justify; 
-        margin: 10px;    
+dt {
+    background: yellow;
+    display: block;
+    width: 320px;
+    margin: 8px;
+    font-size: 1.2em;
+    text-align: center;
+
 }
 dd  {
         font-size: 1.1em; 
-        color: e76dc4   
+        color: e76dc4;   
         text-align: justify;    
         margin: 10px;
         
 }
 
-img{
+img {
     display: inline-block;
     height: 250px;
     margin: 8px;
     padding: 3px;
 }
-h1, h2, h3{
+h1,
+h2,
+h3 {
     font-family: arial, tahoma, sans-serif;
     margin: 10px;
     padding: 10px;
-    background: green;
+    background: #00ffaf;
     color: black;
 }
-p{
-    font-family: arial, tahoma, sans-serif;
-    font-size: 1.2rem;  
-    text-indent: 30 px;
+p {
+    margin: 20px;
+    padding: 8px;
     text-align: justify;
-    margin: 10px;
-    padding: 6px;
 }
 
 li{
